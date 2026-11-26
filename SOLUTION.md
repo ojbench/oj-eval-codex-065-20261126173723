@@ -28,3 +28,11 @@ g++ -std=c++11 -Wall -Wextra -Wpedantic -O1 -g -fsanitize=address,undefined test
 The supplied submission client lacked the `submit_code` method used by its CLI.
 That method was added using the existing API request and submission logging
 helpers.
+
+## Online judge result
+
+- Submission ID: 879513
+- Submitted implementation commit: 3e7d123
+- Result: Accepted, 100/100
+- All 20 test points passed, including 10 memory-check tests.
+- Submission attempts used: 1 of 5.
